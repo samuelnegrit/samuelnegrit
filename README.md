@@ -3,8 +3,7 @@
   <img src="./assets/banner-paper.svg" alt="Samuel Négrit, senior fullstack developer, TIGREN" width="100%">
 </picture>
 
-Senior front-end & full-stack developer, freelancing since 2020 through [TIGREN](https://tigren.fr).
-Based in Vendée, France. Working remote with teams across France and Europe.
+Senior fullstack developer. Eight years building web products, mostly Vue and React with TypeScript, Node.js on the back end. Before coding full time, I co-founded two SaaS products and ran a communication studio, so I think in product terms first.
 
 ### What I do
 
