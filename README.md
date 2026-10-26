@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-ink.svg">
-  <img src="./assets/banner-paper.svg" alt="Samuel Négrit, senior fullstack developer, TIGREN" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-paper.svg">
+  <img src="./assets/banner-ink.svg" alt="Samuel Négrit, senior fullstack developer, TIGREN" width="100%">
 </picture>
 
 Senior fullstack developer. Eight years building web products, mostly Vue and React with TypeScript, Node.js on the back end. Before coding full time, I co-founded two SaaS products and ran a communication studio, so I think in product terms first.
